@@ -4,5 +4,6 @@ public class Lihnjj {
         int aad = 2;
         int aaa = 3;
         var sum = kds+aad+aaa;
+        System.out.println(sum);
     }
 }
